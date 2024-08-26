@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on Edufixup, Nirog health Pluse, Caresee, Renix ltd
 - 📫 How to reach me mdmahadihassanrenco@gmailcom
-- 😄 Pronouns: ...
 - ⚡ Fun fact I think I am Funny! But sometimes the code disagrees.
 
 <!---
