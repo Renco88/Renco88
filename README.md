@@ -3,7 +3,7 @@
 📍 **Location:** Khulna, Bangladesh  
 📧 **Email:** [mdmahadihassanrenco@gmail.com](mailto:amirfaysal0471@gmail.com)  
 📞 **Phone:** +880 1303 091126  
-🔗 **GitHub:** [github.com/amir047123renco88](https://github.com/renco88)  
+🔗 **GitHub:** [github.com/renco88](https://github.com/renco88)  
 🔗 **LinkedIn:** [linkedin.com/in/md-mahadi-hassan-renco-24b988205/](https://www.linkedin.com/in/md-mahadi-hassan-renco-24b988205/)
 
 ---
@@ -62,7 +62,7 @@ Studio Alterity — Full Stack Web Developer
 
 
 
-## 🌐 Websites
+## 🌐 Fortfolio Websites
 
 - [alphabet clash pro](https://renco88.github.io/alphabet-clash-pro/)
 - [biker zone with daisyUI](https://renco88.github.io/biker_zone_with_daisyUI/)
