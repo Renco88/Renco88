@@ -37,9 +37,13 @@ Worked closely with the development team to architect, design, and deliver scala
 
 ## 🎓 Education
 
-### 📚 **BSc in Computer Science & Engineering**  
-*Khulna Khan Bahadur Ahsanullah University*  
-*January 2020 — Present*
+- **BSc in Computer Science & Engineering (CSE)**  
+  *Khulna Khan Bahadur Ahsanullah University*  
+  📅 *January 2023 — Present*  
+
+- **BSc in Electrical & Electronic Engineering (EEE) — Dropped Out**  
+  *Imperial College of Engineering (ICE)*  
+  📅 *2020 — 2022* 
 
 ### 🏅 **Higher Secondary School Certificate**  
 *keshabpur govt degree college*  
