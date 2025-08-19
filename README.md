@@ -42,8 +42,8 @@ Worked closely with the development team to architect, design, and deliver scala
   📅 *January 2023 — Present*  
 
 - **BSc in Electrical & Electronic Engineering (EEE) — Dropped Out**  
-  *Imperial College of Engineering (ICE)*  
-  📅 *2020 — 2022* 
+  *Imperial College of Engineering (ICE), Affiliate of University of Rajshahi (RU)*  
+  📅 *2020 — 2022*  
 
 ### 🏅 **Higher Secondary School Certificate**  
 *keshabpur govt degree college*  
